@@ -1,0 +1,12 @@
+{
+  "name": "Smart Health & Sanitation Hub — Ujjain 2028",
+  "short_name": "Ujjain Hub",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1020",
+  "theme_color": "#4f2bc2",
+  "icons": [
+    { "src": "/placeholder.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/placeholder.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
