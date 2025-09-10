@@ -6,8 +6,8 @@
 </div>
 
 *Live Demo & Repository*  
-[Try it live → https://health-and-sanitation-hub-ujjain.netlify.app/ ]
-[Source code on GitHub -> https://github.com/shubh13265/Health-Sanitation-hub-for-Mahakumbh ]
+[Try it live → Health sanitation hub for Mahakumbh](https://health-and-sanitation-hub-ujjain.netlify.app/)  
+[Source code on GitHub → Health sanitation hub for Mahakumbh Repository](https://github.com/shubh13265/Health-Sanitation-hub-for-Mahakumbh)
 
 ## 🌟 Project Overview
 
