@@ -1,7 +1,7 @@
 # Smart Health & Sanitation Hub — Ujjain Maha Kumbh 2028
 
-<div align="center">
-  <img src="public/placeholder.svg" alt="Project Logo" width="200">
+ <div align="center">
+  <img src="public/favicon.ico" alt="Project Logo" width="200">
   <p><em>Enhancing pilgrim experience through smart sanitation and health management</em></p>
 </div>
 
