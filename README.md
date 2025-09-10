@@ -5,6 +5,10 @@
   <p><em>Enhancing pilgrim experience through smart sanitation and health management</em></p>
 </div>
 
+*Live Demo & Repository*  
+[Try it live → https://health-and-sanitation-hub-ujjain.netlify.app/ ]
+[Source code on GitHub -> https://github.com/shubh13265/Health-Sanitation-hub-for-Mahakumbh ]
+
 ## 🌟 Project Overview
 
 The Smart Health & Sanitation Hub is a comprehensive digital solution designed for the Ujjain Maha Kumbh 2028, addressing critical health, sanitation, and safety challenges during large religious gatherings. This prototype offers real-time facility management, multilingual assistance, and AI-powered risk assessment to enhance pilgrim experience and administrative efficiency.
@@ -68,8 +72,7 @@ The application follows a client-server architecture with offline-first capabili
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/kumb-hackathon.git
-cd kumb-hackathon
+git clone https://github.com/shubh13265/Health-Sanitation-hub-for-Mahakumbh.git
 
 # Install dependencies
 npm install
@@ -90,11 +93,11 @@ npm run build
 - Expanded language support
 
 ## 👥 Contributors
-
-- [shubham Kumar] - [Frontend Developer]
-- [Sanjay yadav] - [Backend Developer]
-- [Ram Patel] - [DataBase Developer]
-- [Shivam Kumar] - [ML Developer]
+- [TEAM :- ERROR_404]
+- [shubham Kumar] -  [Project Strategist and Backend Developer]
+- [Sanjay yadav] - [Frontend Developer and APIs Manager]
+- [Ram Patel] - [DataBase and Tech lead]
+- [Shivam Kumar] - [UI/UX Designer]
 
 ## 📄 License
 
